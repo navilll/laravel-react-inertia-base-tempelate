@@ -1,5 +1,5 @@
 <h1>Laravel-React-Inertia Setup</h1>
-<h4>Insttallation</h4>
+<h4>Installation</h4>
 <p>copy .env.examle to a new .env file<p>
 <p>composer install<p>
 <p>php artisan key:generate<p>
